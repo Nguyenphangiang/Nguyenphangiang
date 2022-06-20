@@ -1,16 +1,26 @@
-### Hi there 👋
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<!--
-**Nguyenphangiang/Nguyenphangiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Xin chào, tôi là Nguyễn Phan Giang 
+## Java Web Developer 👨‍💻 
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/badge/Facebook-https%3A%2F%2Fwww.facebook.com%2Fgiang.sut%2F-blue)](https://www.facebook.com/giang.sut/)
+[![](https://img.shields.io/badge/Gmail-phancruel%40gmail.com-red)](mailto:phancruel@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Một chút về tôi...
+
+```javascript
+const giang = {
+    pronouns: "He" | "Him",
+    address: "Hà Nội",
+    askMeAbout: ["Java web dev", "game"],
+    technologies:{
+        backEnd: ["Java Spring Boot", " một chút Python"],
+        fronEnd: ["angular"],
+        database: ["mySql"],
+    },
+}
+```
+
+---
+⭐️ From [@Nguyenphangiang](https://github.com/Nguyenphangiang)
