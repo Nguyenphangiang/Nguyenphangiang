@@ -15,7 +15,7 @@ const giang = {
     address: "Hà Nội",
     askMeAbout: ["Java web dev", "game"],
     technologies:{
-        backEnd: ["Java Spring Boot", " một chút Python"],
+        backEnd: ["Java Spring Boot"],
         fronEnd: ["angular"],
         database: ["mySql"],
     },
